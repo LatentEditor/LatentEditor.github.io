@@ -13,8 +13,8 @@ var farmTextStrings = [
 
 var bearTextStrings = [
   "Original NeRF",
-  "<em>\"Turn the bulldozer into red\"</em>",
-  "<em>\"Give the tyres blue color \"</em>",
+  "<em>\"Give the tyres blue color\"</em>",
+  "<em>\"Turn the bulldozer into red \"</em>",
   "<em>\"Make the cones purple\"</em>",
 ];
 
